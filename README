@@ -1,0 +1,8 @@
+Prerequisites 
+
+You need to have Calibre software installed in order to run this script. Replace '/usr/bin/pdfmanipulate' with the location of pdfmanipulate.
+
+How To Run
+
+Browse to the location of pdfs and execute ./pdf_crop.sh It will generate new files as 'OldName-cropped.pdf'
+
