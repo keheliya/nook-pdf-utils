@@ -3,7 +3,7 @@ Prerequisites
 
 You need to have Calibre software installed in order to run `pdf_crop.sh` script. Replace `/usr/bin/pdfmanipulate` with the location of pdfmanipulate.
 
-You need to have pdftk installed in order to run pdf_rotate.sh script.
+You need to have [pdftk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) installed in order to run `pdf_rotate.sh` script.
 
 
 How To Run
